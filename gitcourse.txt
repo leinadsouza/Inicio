@@ -3,3 +3,5 @@
 Este é um teste para ver o funcionamento do Git
 
 Ok. Está funcionando!
+
+Adicionando uma mensagem.
