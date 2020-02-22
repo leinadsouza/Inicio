@@ -5,3 +5,5 @@ Este é um teste para ver o funcionamento do Git
 Ok. Está funcionando!
 
 Adicionando uma mensagem.
+
+Estou adicionando esta mensagem no dia 22/02/2020 as 9h56.
